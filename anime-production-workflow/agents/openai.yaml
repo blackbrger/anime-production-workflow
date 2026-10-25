@@ -1,0 +1,4 @@
+interface:
+  display_name: "动漫短片制作流程"
+  short_description: "按任务范围组织动漫短片创作、动作、声音与交付，以可检查的证据推进"
+  default_prompt: "使用 $anime-production-workflow，先识别任务范围；存在方法不确定性时验证关键动作，再按依赖推进制作与验收。"
